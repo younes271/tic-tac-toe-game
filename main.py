@@ -1,10 +1,3 @@
-# tic-tac-toe-game
-A new repository created via Python script
-
-
----
-
-```python
 import os    
 import time    
     
@@ -94,5 +87,4 @@ elif(Game==Win):
     if(player%2!=0):    
         print("Player 1 Won")    
     else:    
-        print("Player 2 Won")    
-```
+        print("Player 2 Won")
